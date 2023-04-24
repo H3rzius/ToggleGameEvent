@@ -1,0 +1,3 @@
+name: ToggleGameEvent
+version: '${project.version}'
+main: me.h3rzius.togglegameevent.ToggleGameEvent
